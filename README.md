@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif?cid=ecf05e47u38xnylv9q7ijdq9h7yszvf8eem508nuzkyauamh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80"/>**Hello! I'm Humberto, welcome to my world of code.**
 
-![banner de presentacion](git_fond.png)
+![git_found](https://github.com/user-attachments/assets/7a7d7dae-4eee-4ec8-aace-279028ee50bf)
 # 🤖About Me:
 📗***I am currently studying computer science engineering at BUAP<br>👾I am learning digital image processing, creating web pages and databases.*** 
 ## **Contacto**
@@ -35,5 +35,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Humberto17&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Humberto17&icon=6&color=12)](https://visitcount.itsvg.in)![git_found](https://github.com/user-attachments/assets/7a7d7dae-4eee-4ec8-aace-279028ee50bf)
+[![](https://visitcount.itsvg.in/api?id=Humberto17&icon=6&color=12)](https://visitcount.itsvg.in)
 
